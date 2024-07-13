@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Sample Topic 1",
+        "introduction": "Introduction text for Sample Topic 1",
+        "questions": {
+            "Remember": [
+                "Question 1",
+                "Question 2"
+            ],
+            "Understand": [
+                "Question 1",
+                "Question 2"
+            ],
+            "Apply": [
+                "Question 1",
+                "Question 2"
+            ],
+            "Analyze": [
+                "Question 1",
+                "Question 2"
+            ],
+            "Evaluate": [
+                "Question 1",
+                "Question 2"
+            ],
+            "Create": [
+                "Question 1",
+                "Question 2"
+            ]
+        }
+    },
+    {
+        "title": "Sample Topic 2",
+        "introduction": "Introduction text for Sample Topic 2",
+        "questions": {
+            "Remember": [
+                "Question 1",
+                "Question 2"
+            ],
+            "Understand": [
+                "Question 1",
+                "Question 2"
+            ],
+            "Apply": [
+                "Question 1",
+                "Question 2"
+            ],
+            "Analyze": [
+                "Question 1",
+                "Question 2"
+            ],
+            "Evaluate": [
+                "Question 1",
+                "Question 2"
+            ],
+            "Create": [
+                "Question 1",
+                "Question 2"
+            ]
+        }
+    },
+    {
+        "title": "Web Scraping",
+        "introduction": "Web scraping is the process of extracting data from websites. This can be done manually by a user or automatically by a bot. Web scraping is useful for various applications such as data mining, market research, and content aggregation.",
+        "questions": {
+            "Remember": [
+                "What is web scraping?",
+                "Name a popular library used for web scraping in Python."
+            ],
+            "Understand": [
+                "Explain why web scraping can be useful.",
+                "Describe the ethical considerations one must take into account when web scraping."
+            ],
+            "Apply": [
+                "Write a basic Python script using BeautifulSoup to extract data from a website.",
+                "Demonstrate how to handle HTTP errors when web scraping."
+            ],
+            "Analyze": [
+                "Compare web scraping with API usage for data extraction.",
+                "Analyze the potential risks of web scraping to the website being scraped."
+            ],
+            "Evaluate": [
+                "Evaluate the impact of web scraping on website performance.",
+                "Assess the legal implications of web scraping."
+            ],
+            "Create": [
+                "Create a web scraper that collects data from multiple pages of a website.",
+                "Design a strategy to avoid getting blocked by websites while scraping."
+            ]
+        }
+    }
+]
